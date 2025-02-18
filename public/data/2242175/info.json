@@ -1,0 +1,9 @@
+{
+    "nombre": "Jenifer Ortiz Torres",
+    "edad": 23,
+    "carrera": "Tecnología en Desarrollo de Software",
+    "semestre": 6,
+    "gustos": ["Ver documentales", "Senderismo", "Compartir con mi gato", "Dormir"],
+    "noGustos": ["Despertarse temprano", "Responder mensajes", "Clima frío", "Ruido fuerte" ],
+    "foto": "file:///C:/Users/tedes/Downloads/tarea_uno/index.html"
+}
