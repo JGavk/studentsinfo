@@ -1,0 +1,11 @@
+{
+    "nombre": "Santiago Castañeda",
+    "edad": 21,
+    "carrera": "Desarrollo de software",
+    "semestre": 3,
+    "gustos": ["Lectura", "voleyy playa", "legos", "juegos"],
+    "noGustos": ["Despertarse temprano", "clases de relleno", "MIO"],
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv8BIPfR2hY1qsfM4-mE_rmuwQ5eoEgZPIcg&s"
+}
+
+  
