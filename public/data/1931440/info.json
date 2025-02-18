@@ -1,0 +1,11 @@
+{
+    "nombre": "Elkin Tovar",
+    "edad": 23,
+    "carrera": "Ing. Sistemas",
+    "semestre": 5,
+    "gustos": ["Video juegos", "Cine", "Comida picante", "Voley"],
+    "noGustos": ["Despertarse temprano", "Ruido fuerte", "Tareas largas", "habichuelas"],
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1nvT1DKDheea-8zCOYaYzVq11MctealBx3w&s"
+}
+
+  
