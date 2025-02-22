@@ -1,0 +1,9 @@
+{
+    "nombre": "Miguel Angel Soto Espitia",
+    "edad": 20,
+    "carrera": "Desarrollo de software",
+    "semestre": 6,
+    "gustos": ["Lectura", "Cine", "Juegos", "Comer"],
+    "noGustos": ["Despertarse temprano", "Trancones", "Ruido fuerte", "Tareas largas"],
+    "foto": "https://www.univalle.edu.co/media/k2/items/cache/9845d3c220e6e5674241ce626189d694_M.jpg"
+}
