@@ -1,0 +1,9 @@
+{
+    "nombre": "Santiago Ruiz",
+    "edad": 20,
+    "carrera": "Ing. Sistemas",
+    "semestre": 5,
+    "gustos": ["Desarrollar software", "Cine", "Comida picante", "Futbol"],
+    "noGustos": ["Despertarse temprano", "Ruido fuerte", "Tareas largas"],
+    "foto": "https://i.pinimg.com/236x/60/39/aa/6039aa295bf95bf8bad7568332304bc6.jpg"
+}
